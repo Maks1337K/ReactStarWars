@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+ div.card{
+   margin: 35px;
+    width: 400px;
+    height: 400px;
+ }
